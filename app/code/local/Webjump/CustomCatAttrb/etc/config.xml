@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Webjump_CustomCatAttrb>
+            <version>1.0.0</version>
+        </Webjump_CustomCatAttrb>
+    </modules>
+    <global>
+        <resources>
+          <CustomCatAttrb_setup>
+            <setup>
+              <module>Webjump_CustomCatAttrb</module>
+              <class>Mage_Eav_Model_Entity_Setup</class>
+            </setup>
+            <connection>
+              <use>default_setup</use>
+            </connection>
+          </CustomCatAttrb_setup>
+      </resources>
+        <blocks>
+            <webjump_customcatattrb>
+                <class>Webjump_CustomCatAttrb_Block</class>
+            </webjump_customcatattrb>
+        </blocks>
+        <helpers>
+            <webjump_customcatattrb>
+                <class>Webjump_CustomCatAttrb_Helper</class>
+            </webjump_customcatattrb>
+        </helpers>
+        <models>
+            <webjump_customcatattrb>
+                <class>Webjump_CustomCatAttrb_Model</class>
+            </webjump_customcatattrb>
+        </models>
+    </global>
+</config>
