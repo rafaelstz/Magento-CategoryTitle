@@ -1,9 +1,10 @@
 Rafaelcg CategoryTitle Extension
 =====================
 Adding Custom Category Attributes to Magento
+
 Facts
 -----
-- version: 1.0.0
+- version: 0.0.1
 - extension key: Rafaelcg_CategoryTitle
 - [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/rafaelcg)-categorytitle-1234.html)
 - Magento Connect 1.0 extension key: magento-community/Rafaelcg_CategoryTitle
@@ -19,7 +20,6 @@ Requirements
 ------------
 - PHP >= 5.2.0
 - Mage_Core
-- ...
 
 Compatibility
 -------------
