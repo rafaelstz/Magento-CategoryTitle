@@ -1,4 +1,4 @@
-Rafaelcg CategoryTitle Extension
+Magento Category Title Extension
 =====================
 Adding Custom Category Attributes to Magento
 
@@ -6,39 +6,35 @@ Facts
 -----
 - version: 0.0.1
 - extension key: Rafaelcg_CategoryTitle
-- [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/rafaelcg)-categorytitle-1234.html)
-- Magento Connect 1.0 extension key: magento-community/Rafaelcg_CategoryTitle
-- Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/Rafaelcg_CategoryTitle
 - [extension on GitHub](https://github.com/rafaelcg/Rafaelcg_CategoryTitle)
-- [direct download link](http://connect.magentocommerce.com/community/get/Rafaelcg_CategoryTitle-1.0.0.tgz)
 
 Description
 -----------
-This paragraph describes what the extension does.
+Adding custom attributes to Magento.
 
 Requirements
 ------------
-- PHP >= 5.2.0
+- PHP >= 5.4.0
 - Mage_Core
 
 Compatibility
 -------------
-- Magento >= 1.4
+- Magento >= 1.7
 
 Installation Instructions
 -------------------------
 1. Install the extension via Magento Connect with the key shown above or copy all the files into your document root.
 2. Clear the cache, logout from the admin panel and then login again.
-3. Configure and activate the extension under System - Configuration - Company - Example Extension.
+3. Configure and activate the extension under System - Configuration - Rafaelcg - Category Title Extension.
 
 Uninstallation
 --------------
 1. Remove all extension files from your Magento installation
-2. ...
+2. Clear the cache, logout from the admin panel and then login again.
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/rafaelcg/Rafaelcg_CategoryTitle/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/rafaelcg/Magento-Module-CategoryTitle/issues).
 
 Contribution
 ------------
@@ -47,8 +43,8 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 Developer
 ---------
 Rafael Corrêa Gomes
-[http://www.firstname-lastname.com](http://www.firstname-lastname.com)
-[@FirstNameLastName](https://twitter.com/FirstNameLastName)
+[https://rafaelstz.github.io](https://rafaelstz.github.io)
+[@rafaelcgstz](https://twitter.com/rafaelcgstz)
 
 Licence
 -------
@@ -56,4 +52,4 @@ Licence
 
 Copyright
 ---------
-(c) 2015 Rafaelcg
+(c) 2016 Rafael Corrêa Gomes
